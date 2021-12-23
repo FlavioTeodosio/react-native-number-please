@@ -26,12 +26,12 @@
     "numbers",
     "select"
   ],
-  "author": "Bil Benhamou <bil@thebiltheory.com>",
+  "author": "FlavioTeodosio By Fork of Bil Benhamou <bil@thebiltheory.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thebiltheory/react-native-number-please/issues"
+    "url": "https://github.com/FlavioTeodosio/react-native-number-please/issues"
   },
-  "homepage": "https://github.com/thebiltheory/react-native-number-please#readme",
+  "homepage": "https://github.com/FlavioTeodosio/react-native-number-please#readme",
   "peerDependencies": {
     "@react-native-picker/picker": "*",
     "react": "*",
