@@ -1,7 +1,7 @@
 {
-  "name": "react-native-number-please",
-  "version": "0.0.0-development",
-  "description": "React Native number picker",
+  "name": "react-native-number-prize",
+  "version": "0.0.1",
+  "description": "React Native number prize",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
