@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thebiltheory/react-native-number-please.git"
+    "url": "git+https://github.com/FlavioTeodosio/react-native-number-please.git"
   },
   "keywords": [
     "react-native",
@@ -67,10 +67,13 @@
   },
   "dependencies": {
     "@react-native-picker/picker": "^1.16.5"
-  },  
+  },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/",
     "tag": "latest"
+  },
+  "directories": {
+    "example": "example"
   }
 }
