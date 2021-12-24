@@ -47,30 +47,30 @@ export interface IValue {
   [key: string]: ItemValue;
 }
 
-export interface INumberPleaseProps extends PickerProps {
+export interface INumberPrizeProps extends PickerProps {
   /**
    * Initialise all the pickers with the given values.
    * @type {IRNNPPicker[]}
-   * @memberof INumberPleaseProps
+   * @memberof INumberPrizeProps
    */
   pickers: IRNNPPicker[];
   /**
    * Controled value to be displayed in the pickers.
    * @type {IValue}
-   * @memberof INumberPleaseProps
+   * @memberof INumberPrizeProps
    */
   values: IValue;
   /**
    * Callback function to be called when the value of any picker changes.
    * @param {*} value
    * @return {*}  {*}
-   * @memberof INumberPleaseProps
+   * @memberof INumberPrizeProps
    */
   onChange(value: any): any;
   /**
    * Divider to be used to seperate pickers.
    * @type {*}
-   * @memberof INumberPleaseProps
+   * @memberof INumberPrizeProps
    */
   divider?: any;
 }

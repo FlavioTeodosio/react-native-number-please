@@ -1,2 +1,2 @@
-import NumberPlease from './src/NumberPlease';
-export default NumberPlease;
+import NumberPrize from './src/NumberPrize';
+export default NumberPrize;

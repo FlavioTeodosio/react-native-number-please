@@ -1,4 +1,4 @@
-# React Native Number Please 🙏🏽
+# React Native Number Prize 🙏🏽
 
 [![Build](https://circleci.com/gh/thebiltheory/react-native-number-please/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/thebiltheory/react-native-number-please) ![npm](https://img.shields.io/npm/v/react-native-number-please?color=%236820FE) ![npm](https://img.shields.io/npm/dm/react-native-number-please) ![NPM](https://img.shields.io/npm/l/react-native-number-please)
 
@@ -17,9 +17,9 @@ Generate react-native pickers with range numbers.
 Add the package to your project
 
 ```bash
-yarn add react-native-number-please
+yarn add react-native-number-prize
 
-npm install -S react-native-number-please
+npm install -S react-native-number-prize
 ```
 
 ## Usage

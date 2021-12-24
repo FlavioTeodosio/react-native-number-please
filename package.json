@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FlavioTeodosio/react-native-number-please.git"
+    "url": "git+https://github.com/FlavioTeodosio/react-native-number-prize.git"
   },
   "keywords": [
     "react-native",
@@ -29,9 +29,9 @@
   "author": "FlavioTeodosio By Fork of Bil Benhamou <bil@thebiltheory.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FlavioTeodosio/react-native-number-please/issues"
+    "url": "https://github.com/FlavioTeodosio/react-native-number-prize/issues"
   },
-  "homepage": "https://github.com/FlavioTeodosio/react-native-number-please#readme",
+  "homepage": "https://github.com/FlavioTeodosio/react-native-number-prize#readme",
   "peerDependencies": {
     "@react-native-picker/picker": "*",
     "react": "*",

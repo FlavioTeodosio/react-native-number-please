@@ -38,7 +38,7 @@ const PickerFactory: React.FC<any> = React.forwardRef(({
   );
 });
 
-const NumberPlease: React.FC<INumberPleaseProps> = ({
+const NumberPrize: React.FC<INumberPrizeProps> = ({
   pickers,
   values,
   onChange,
@@ -106,4 +106,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default NumberPlease;
+export default NumberPrize;
